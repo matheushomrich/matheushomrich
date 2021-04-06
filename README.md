@@ -7,7 +7,7 @@ Me 🔭
 
 Experiences 🌱
 - I’m currently learning the Swift programming language at my internship and also I've already developed some knowledge in mostly Java and Python. 
-- In some of my other work with Web Development experiences I learned Spring-Boot and .NET framework.
+- In my other work experiences with Web Development experiences I learned Spring-Boot and .NET framework.
 - In my 3rd semester I had the opportunity to work as a researcher in the VHLab at my university, there I deepened my knowledge in Python and also got to work with the OpenCV libraby. Here is the article I wrote with a co-worker there that earned 3rd place in the SBGames Conference: https://bit.ly/3w9yaWv
 
 Hobbies ⚡
