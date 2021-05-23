@@ -5,6 +5,10 @@ Me 🔭
 - My name is Matheus Schreiner Homrich da Silva and I'm currently a Computer Science student at PUC-RS and iOS Developer at Apple Developer Academy | PUCRS.
 - I now still reside at Porto Alegre, RS in Brazil where I was born, in 2013 through 2014 I had an experience living in Burlington, Ontario in Canada and living abroad is something I hope to do again in a recent future in my life.
 
+Apps in the App Store 📱
+
+- [DevTopia Idle Game](https://apple.co/34dcgot)
+
 Experiences 🌱
 - I’m currently learning the Swift programming language at my internship and also I've already developed some knowledge in mostly Java and Python. 
 - In my other work experiences with Web Development experiences I learned Spring-Boot and .NET framework.
@@ -17,6 +21,7 @@ Hobbies ⚡
 
 Social media 📫
 -  Feel free to contact me through any social media(@matt_homrich), here's my LinkedIn: https://bit.ly/3dfO6O1.
+
 
 
 <!--
