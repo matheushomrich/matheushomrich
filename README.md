@@ -17,7 +17,7 @@ Experiences 🌱
 Hobbies ⚡
 - As one of my hobbies other than loving to practice sports such as Soccer ⚽️, Tennis 🎾 and Basketball 🏀
 - Recently I've been trying to write a little in Medium, here is the link to my profile: https://bit.ly/3ukzMuA
-- I have this fanpage about a NBA franchise called Toronto Raptors featured in Twitter, Instagram and I've also done some podcasts which are available in Spotify, Apple and Google Podcasts. Here's the link for the Twitter page: https://bit.ly/3dfQYKN
+- I have a fanpage about an NBA franchise called Toronto Raptors featured in Twitter(@torontorapsbr) called Toronto Raptors Brasil, Instagram and I've also done some podcasts which are available in Spotify, Apple and Google Podcasts. Here's the link for the Twitter page: https://bit.ly/3dfQYKN
 
 Social media 📫
 -  Feel free to contact me through any social media(@matt_homrich), here's my LinkedIn: https://bit.ly/3dfO6O1.
