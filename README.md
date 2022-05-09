@@ -10,6 +10,7 @@ Apps in the App Store 📱
 - [DevTopia Idle Game](https://apple.co/34dcgot)
 - [SimplePacking - packing made easy](https://apps.apple.com/br/app/simplepacking/id1581175643)
 - [Avalanche Run - escape the avalanche](https://apps.apple.com/br/app/avalanche-run/id1585684015?l=en)
+- [iLexical - Grammar Recognition](https://apps.apple.com/app/ilexical/id1622668164)
 
 Experiences 🌱
 - I’m currently learning the Swift programming language at my internship and also I've already developed some knowledge in mostly Java and Python. 
