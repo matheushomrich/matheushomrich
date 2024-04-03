@@ -2,7 +2,7 @@
 
 
 Me 🔭 
-- My name is Matheus Schreiner Homrich da Silva and I'm currently a Computer Science student at PUC-RS and iOS Engineer at Instituto de Pesquisas Eldorado.
+- My name is Matheus Schreiner Homrich da Silva and I'm a Computer Science graduate from PUC-RS and iOS Engineer at Instituto de Pesquisas Eldorado.
 - I now still reside at Porto Alegre, RS in Brazil where I was born, in 2013 through 2014 I had an experience living in Burlington, Ontario in Canada and living abroad is something I hope to do again in a recent future in my life.
 
 Apps in the App Store 📱
